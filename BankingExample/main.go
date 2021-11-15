@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	accounts "github.com/yunji/Go-study/banking"
+	accounts "github.com/yunji/Go-study/BankingExample/banking"
 )
 
 func main() {
